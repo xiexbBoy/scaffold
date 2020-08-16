@@ -1,0 +1,9 @@
+
+spring:
+  profiles:
+    active: dev
+  application:
+    name: staffold
+
+server:
+  port: 8080
